@@ -35,15 +35,13 @@ The primary practice API is **Swagger Petstore**. The repository also includes a
 |---|---|
 | [Postman](https://www.postman.com/) | Create and send API requests manually; inspect responses. |
 | [Swagger Petstore](https://petstore.swagger.io/) | Practice pet and store API operations. The API base URL is `https://petstore.swagger.io/v2`. |
-| [FreeAPI](https://freeapi.app/) | Practice registration and public API requests from the included collection. |
-| OpenAPI 3 | Describe Petstore endpoints, request/response schemas, and authentication. |
+
 
 ## 📁 Project Files
 
 | File | Description |
 |---|---|
 | [`petstore-api-openapi.json`](petstore-api-openapi.json) | Petstore API description in JSON format. |
-| [`petstore-api-openapi.yaml`](petstore-api-openapi.yaml) | The same Petstore API description in YAML format. |
 | [`Postman-API-Testing.postman_collection.json`](Postman-API-Testing.postman_collection.json) | Postman collection with Auth and Public FreeAPI requests. |
 
 ## 🧪 Petstore Scenarios to Practice
